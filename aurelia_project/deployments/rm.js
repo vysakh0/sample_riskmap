@@ -24,3 +24,4 @@ export default {
     'minimum_zoom': 10
   }
 };
+
